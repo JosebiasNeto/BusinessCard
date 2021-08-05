@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BusinessCard</string>
+    <string name="txt_title">Cartão de Visita</string>
+    <string name="txt_fab_description">floating_action_button</string>
 </resources>
