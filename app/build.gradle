@@ -68,8 +68,7 @@ dependencies {
     //noinspection LifecycleAnnotationProcessorWithJava8
     kapt("androidx.lifecycle:lifecycle-compiler:$lifecycle_version")
 
-    implementation 'com.github.QuadFlask:colorpicker:0.0.15'
-    compile(name:'[arrFileName]', ext:'aar')
+
 
 
 }
