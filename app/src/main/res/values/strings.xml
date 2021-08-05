@@ -2,4 +2,11 @@
     <string name="app_name">BusinessCard</string>
     <string name="txt_title">Cartão de Visita</string>
     <string name="txt_fab_description">floating_action_button</string>
+    <string name="txt_new_card">Novo Cartão</string>
+    <string name="txt_hint_name">Nome</string>
+    <string name="txt_phone">Telefone</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_company">Empresa</string>
+    <string name="txt_color">Cor</string>
+    <string name="txt_confirm">confirmar</string>
 </resources>
