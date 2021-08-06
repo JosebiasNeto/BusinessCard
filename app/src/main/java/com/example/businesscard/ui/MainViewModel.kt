@@ -12,7 +12,7 @@ class MainViewModel(private val businessCardRepository: BusinessCardRepository) 
         businessCardRepository.insert(businessCard)
     }
 
-    fun getAll() {
+    fun getAll(): LiveData<List<BusinessCard>> {
         return businessCardRepository.getAll()
     }
 

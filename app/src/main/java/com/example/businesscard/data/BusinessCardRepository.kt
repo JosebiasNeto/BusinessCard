@@ -12,8 +12,7 @@ class BusinessCardRepository(private val dao: BusinessCardDao){
         }
     }
 
-    fun getAll(){
-        dao.getAll()
-    }
+    fun getAll() = dao.getAll()
+
 
 }
